@@ -58,5 +58,5 @@ target/
 
 local.py
 
-.ipynb_checkpoints/
-
+*.ipynb_checkpoints/
+*grid*.json
